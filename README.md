@@ -36,3 +36,4 @@ A secure wallet generator for Octra blockchain.
    - Test signature functionality
    - Derive addresses for different network types
    - Auto-save wallet file to diskCommit 3 line
+Commit 4 line
