@@ -38,3 +38,4 @@ A secure wallet generator for Octra blockchain.
    - Auto-save wallet file to diskCommit 3 line
 Commit 4 line
 Commit 5 line
+Commit 6 line
